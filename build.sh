@@ -1,0 +1,1 @@
+gcc main.c -o main -lraylib -framework CoreVideo -framework IOKit -framework Cocoa -framework GLUT -framework OpenGL -Lraylib/lib -Iraylib/include
